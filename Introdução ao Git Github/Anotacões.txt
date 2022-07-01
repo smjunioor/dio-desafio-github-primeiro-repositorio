@@ -1,0 +1,25 @@
+Como criar os promeiros registros no Github
+
+crie um novo repositório 
+insira os dados que queira, depois de um COMMIT para salvar todas as informações
+verifique a forma que quer exportar essa criação para o Git Bash
+(no meu caso pelo o códio SSH) ( HAS é o tipo de chave criptografada que eu condigo enviar os arquivos para a nuvem
+copie as informações geradas e cole no git 
+OBS: abra o Git já dentro da pasta onde foram criados os arquivos formato .MD
+para ja esta dentro da pasta (Master) 
+ 
+Lista de comandos do Git
+
+dir - abrir todos os diretórios 
+cd  - mostra todas as pastas
+Ctrl+L - limpa as informações do Git
+cd .. - volta para o comando anterior
+echo  - só repete o que voce escreveu
+ls   - lista todos os arquivos
+mkdir - para entrar em qualquer repositório (ex: mkdir livro-receira/ )
+ls -a   - para listar as pastar ocultas
+git status  -  mostra como esta a situação do repositório
+git config --global user.name (nome que quer criar) -- para criar um reporiório
+git add .   - adicionar mudanças que fez no codigo
+git commit -m "commit inicial"   - iniciar um novo commit
+ 
